@@ -1,1 +1,2 @@
 sudo apt update && sudo apt upgrade -y
+sudo apt install guake cowsay fortune-mod sl cmatrix libreoffice -y
