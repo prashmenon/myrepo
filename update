@@ -6,4 +6,4 @@ sudo apt autoremove -y
 sudo apt autoclean -y
 sudo apt dist-upgrade -y
 sudo apt full-upgrade -y
-
+gsettings set org.gnome.desktop.background picture-uri http://prashmenon.com:8080/image/tux.jpg
