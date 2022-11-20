@@ -8,3 +8,4 @@ sudo apt dist-upgrade -y
 sudo apt full-upgrade -y
 ####Set background image####
 gsettings set org.gnome.desktop.background picture-uri http://prashmenon.com:8080/image/tux.jpg
+wget https://github.com/prashmenon/myrepo/blob/main/linux-basics-for-hackers.jpeg
